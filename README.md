@@ -1,6 +1,6 @@
 <!-- Neste tipo de arquivo as instruções de HTML e MarkDown funcionam, então, use e abuse do que você sabe de DEVWEB. !-->
 <div align=center>
-  <h1>Hi! I am Israel Coelho, a graphical designer!</h1>
+  <h1>Hi! I am Israel Coelho, a flutter developer!</h1>
 </div>
 <!-- 
 adiciona um bla bla bla aqui, bota uma imagem ou sla, é contigo.Vou deixar o link do meu perfil e o do Ruan pra tu dar uma olhada e se inspirar. https://github.com/ruanpereira
